@@ -1,5 +1,5 @@
-def add(a, b):
+def adder(a, b):
     return a + b
 if __name__ == "__main__" :
-    print(add(5, 10))
+    print(adder(5, 10))
 
